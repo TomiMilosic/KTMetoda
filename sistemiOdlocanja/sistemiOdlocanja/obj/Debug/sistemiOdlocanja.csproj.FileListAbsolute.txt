@@ -1,0 +1,15 @@
+C:\Users\Tomi\source\repos\sistemiOdlocanja\sistemiOdlocanja\bin\Debug\sistemiOdlocanja.exe.config
+C:\Users\Tomi\source\repos\sistemiOdlocanja\sistemiOdlocanja\bin\Debug\sistemiOdlocanja.exe
+C:\Users\Tomi\source\repos\sistemiOdlocanja\sistemiOdlocanja\bin\Debug\sistemiOdlocanja.pdb
+C:\Users\Tomi\source\repos\sistemiOdlocanja\sistemiOdlocanja\obj\Debug\sistemiOdlocanja.csprojAssemblyReference.cache
+C:\Users\Tomi\source\repos\sistemiOdlocanja\sistemiOdlocanja\obj\Debug\sistemiOdlocanja.Form1.resources
+C:\Users\Tomi\source\repos\sistemiOdlocanja\sistemiOdlocanja\obj\Debug\sistemiOdlocanja.Properties.Resources.resources
+C:\Users\Tomi\source\repos\sistemiOdlocanja\sistemiOdlocanja\obj\Debug\sistemiOdlocanja.csproj.GenerateResource.cache
+C:\Users\Tomi\source\repos\sistemiOdlocanja\sistemiOdlocanja\obj\Debug\sistemiOdlocanja.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\source\repos\sistemiOdlocanja\sistemiOdlocanja\obj\Debug\sistemiOdlocanja.exe
+C:\Users\Tomi\source\repos\sistemiOdlocanja\sistemiOdlocanja\obj\Debug\sistemiOdlocanja.pdb
+C:\Users\Tomi\source\repos\sistemiOdlocanja\sistemiOdlocanja\bin\Debug\System.Linq.Dynamic.dll
+C:\Users\Tomi\source\repos\sistemiOdlocanja\sistemiOdlocanja\obj\Debug\sistemiOdlocanja.csproj.CopyComplete
+C:\Users\Tomi\source\repos\sistemiOdlocanja\sistemiOdlocanja\obj\Debug\sistemiOdlocanja.ObcutljivostForm.resources
+C:\Users\Tomi\source\repos\sistemiOdlocanja\sistemiOdlocanja\obj\Debug\sistemiOdlocanja.NavadniGrafi.resources
+C:\Users\Tomi\source\repos\sistemiOdlocanja\sistemiOdlocanja\obj\Debug\sistemiOdlocanja.pomocform.resources
