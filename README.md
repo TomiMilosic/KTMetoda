@@ -10,3 +10,5 @@ Program ime tudi zmagovalno alternativo po tej metodi. Iz rezultatov naredite tu
 Zahtevnejši del: 
 
 Narejena analiza občutljivosti parametra, tako da se spreminja utež parametra od 0 pa vse do 10 in prikažite sliko grafa, ki prikazuje kako se vrednosti alternativ spreminjajo. Program je narejen tako, da bo naredil analizo občutljivosti za izbran parameter.
+
+https://imgur.com/3Yvjq2c 
