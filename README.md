@@ -1,3 +1,5 @@
+# Metoda Kepner Trogue
+
 Narejena namizna aplikacija v programskem jeziku c#, kjer je bila uporabljena metoda večkriterijskega odločanja Kepner Tregoe (K-T metoda). program vsebuje naslednje funkcionalnosti:
 
 
